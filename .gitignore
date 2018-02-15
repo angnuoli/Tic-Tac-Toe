@@ -1,0 +1,9 @@
+
+*.xml
+*.xml
+.idea/vcs.xml
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
